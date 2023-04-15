@@ -1,6 +1,8 @@
 # VESA-Mount Monitor Attachments
 
-Set of attachments that can be added to a 75mm VESA-Mount on the back of a monitor.
+Set of attachments that can be attached to a 75mm or 100mm VESA-Mount on the back of a monitor.
+
+The Freecad design is now parametric. Use can use the assembly variables d_VESA and keyboard_offet to adjust the VESA grid size and height of the spacers.
 
 ![3dModel](img/assembly.jpg)
 ![frontview](img/camMountedFront.jpg)
